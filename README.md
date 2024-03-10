@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabesh</h1>
 <h3 align="center">An aspiring frontend developer from Tamil Nadu, India</h3>
-
-- 🌱 I’m currently learning **Frontend Development Skills.**
+<p>🌱 I’m currently learning **Frontend Development Skills.**<br>
+🌱 I’m a Recruiter, looking for career change into IT sector.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
