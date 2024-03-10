@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sabesh-s
-- 👀 I’m interested in learning all IT functions such as coding, developing, testing, cloud computing, data engineering, designing, etc.
-- 🌱 I’m currently learning DevOps.
+- I am a Recruiter looking for career shift to IT industry.
+- 👀 I’m in the learning phase looking for internships.
+- 🌱 I’m currently learning Frontend Development.
 - 📫 Reach me via Linkedin - https://www.linkedin.com/in/sabesh-s/
 
 <!---
