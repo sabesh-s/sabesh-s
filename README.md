@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabesh</h1>
-<h3 align="center">An aspiring frontend developer from Tamil Nadu, India</h3>
-<p>🌱 I’m currently learning **Frontend Development Skills.**<br>
+<h3 align="center">I am a Recruiter from Tamil Nadu, India</h3>
+<p>🌱 I’m currently learning **Technical Recruiting**<br>
 🌱 I’m a Recruiter, looking for career change into IT sector.</p>
 
 <h3 align="left">Connect with me:</h3>
